@@ -1,0 +1,3 @@
+[submodule "quirk-specials-landing-generator"]
+	path = quirk-specials-landing-generator
+	url = git@github.com:harisolaas/quirk-specials-landing-generator.git
